@@ -1,2 +1,6 @@
 ssssssss
 111
+
+def x():
+    print("x")
+    
