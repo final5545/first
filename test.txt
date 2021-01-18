@@ -4,3 +4,5 @@ ssssssss
 def x():
     print("x")
     
+def y():
+    print("x")
