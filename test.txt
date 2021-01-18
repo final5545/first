@@ -14,3 +14,7 @@ def y2():
 
 def y3():
     print("x")
+
+
+def y4():
+    print("x")
