@@ -6,3 +6,11 @@ def x():
     
 def y():
     print("x")
+
+
+def y2():
+    print("x")
+
+
+def y3():
+    print("x")
